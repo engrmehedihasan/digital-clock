@@ -6,8 +6,9 @@ body {
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url("https://images.unsplash.com/photo-1724583698704-94b3f4771c58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI1OHw2c01WalRMU2tlUXx8ZW58MHx8fHx8");
+    background: url("https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
     background-size: cover;
+    overflow: hidden;
 }
 
 h2 {
@@ -53,7 +54,7 @@ h2 {
     bottom: 0;
     position: absolute;
     width: 60px;
-    height: 35px;
+    height: 32px;
     font-size: 20px;
     background-color: green;
 }
